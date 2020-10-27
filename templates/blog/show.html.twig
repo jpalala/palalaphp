@@ -1,0 +1,8 @@
+{# templates/blog/index.html.twig #}
+{% extends 'blog/layout.html.twig' %}
+
+{% block title %}Halimbawang Title{% endblock %}
+
+{% block body %}
+  {{ markdown|markdown_to_html }}
+{% endblock %}

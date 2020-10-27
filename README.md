@@ -1,6 +1,7 @@
 # PalalaPHP
 
-It's a soon-to-be-released view framework that's built for reading markdown content  and displaying it into html, with a simple template layout system that can be customized to your needs.
+Yet another blog based on markdown.
+
 
 ## What it is NOT
 
@@ -25,5 +26,21 @@ Yes, there are static generators like jigsaw and sculpin, and then those can be 
 
 My main reason fo rmaking this is  to be  customizable as possible and as simple as possible, the average non-Laravel or non-static site user can still understand how to use it, and grok how it works.
 
-Jigsaw is my inspiration for this, it uses blade though. I prefer to use [Native PHP templates](https://PlatesPHP.com).
+
+## I'd rather use X
+
+I don't mind. This is a simple project to test out an idea. 
+
+## Why are you not using Laravel!??
+
+I could have used Laravel, but the feeling is you need to keep updating it to have an active project. So far, symfony versions don't change as frequently as laravel, so the feeling of needing to upgrade to latest is not as often as from laravel.
+
+## Learnings
+
+I'm posting resources that helped me build this on the [TIL.md](TIL.md) file.
+
+## Screenshots
+
+![Screenshot](Halimbawa.png)
+
 

@@ -1,0 +1,18 @@
+vendor/
+composer.lock
+phpunit.xml
+.php_cs.cache
+.phpunit.result.cache
+composer.phar
+package.tar
+
+# Cache, session files and logs (Symfony3)
+/var/cache/*
+/var/logs/*
+/var/sessions/*
+!var/cache/.gitkeep
+!var/logs/.gitkeep
+!var/sessions/.gitkeep
+
+/packages.json
+/.phpunit

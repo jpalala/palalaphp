@@ -1,0 +1,9 @@
+post_show:
+    path: /post/show/{slug}
+    controller: App\Controller\PostController::show
+
+post_index: 
+    path: /post/index
+    controller: App\Controller\PostController::index
+
+
