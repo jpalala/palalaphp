@@ -8,7 +8,8 @@ package.tar
 
 # Cache, session files and logs (Symfony3)
 /var/cache/*
-/var/logs/*
+/var/log/*
+!var/log/.gitkeep
 /var/sessions/*
 !var/cache/.gitkeep
 !var/logs/.gitkeep
