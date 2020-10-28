@@ -29,11 +29,19 @@ My main reason fo rmaking this is  to be  customizable as possible and as simple
 
 ## I'd rather use X
 
-I don't mind. This is a simple project to test out an idea. 
+I don't mind. This is a simple project to test out an idea. Here are other better solutions. 
+
+- [SPress](http://spress.yosymfony.com/)
+- [Couscous](https://github.com/CouscousPHP/Couscous)
+- [Sculpin](https://github.com/sculpin/sculpin)
+- [Jigsaw](https://jigsaw.tighten.co/)
+- [Jekyll](https://jekyllrb.com/)
+- [Eleventy](https://www.11ty.dev/)
+- [Hugo](https://gohugo.io/)
 
 ## Why are you not using Laravel!??
 
-I could have used Laravel, but the feeling is you need to keep updating it to have an active project. So far, symfony versions don't change as frequently as laravel, so the feeling of needing to upgrade to latest is not as often as from laravel.
+I could have used Laravel, but it keeps updating so often, that this project might become obsolete faster with Laravel. So far, symfony versions don't change as frequently as laravel, so the feeling of needing to upgrade to latest is not as often as from laravel.
 
 ## Learnings
 
